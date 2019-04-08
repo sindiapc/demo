@@ -1,6 +1,6 @@
 test123
 for my staging branch
-git add test1.txt
+git add D:\sindia\experiments\GitTesting\Myproject/test1.txt
 
 git add -A
 Add all new and changed files to the staging area
